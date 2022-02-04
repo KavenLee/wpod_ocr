@@ -6,6 +6,8 @@
 - requirements.txt
 - clova AI → deep text recognition → trained weights (ex, .pth)
 - wpod-net weights (ex, .h5 , .json)
+- https://github.com/KavenLee/wpod_ocr/releases/tag/wpod
+- Make Dir 'weights' and put the downloaded file in the Dir
 
 ## OCR Recognition Training
 
