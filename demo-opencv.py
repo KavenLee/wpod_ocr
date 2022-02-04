@@ -68,7 +68,7 @@ def Recognition(opt,img):
         length_for_pred   = torch.IntTensor([opt.batch_max_length] * batch_size).to(device)
         text_for_pred     = torch.LongTensor(batch_size, opt.batch_max_length + 1).fill_(0).to(device)
 
-        preds = model(image, text_for_pred, is_train=False)
+        preds             = model(image, text_for_pred, is_train=False)
 
         # select max probabilty (greedy decoding) then decode index to character
         _, preds_index    = preds.max(2)
