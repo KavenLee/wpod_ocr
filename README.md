@@ -1,5 +1,10 @@
 # README.md
 
+## Discription
+- I was given the task of researching Number Plate OCR.
+- find WPOD-Net of Number Plate Detect and Deep Text Reognition Benchmark of OCR, and tried to make one task by connecting the two.
+- order of this project : Number plate Detect on Image and Text & Number Recognition of Detected Number Plate 
+
 ## PrePareded
 
 - anaconda env
