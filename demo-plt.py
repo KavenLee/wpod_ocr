@@ -170,7 +170,7 @@ if __name__ is '__main__':
     idx      = 0
 
     # get image list
-    dir_path = 'C:/Users/USER/Desktop/cars'
+    dir_path = '' # Input Your Image Directory Path
     img_list = os.listdir(dir_path)
 
     # predict
