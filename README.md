@@ -34,6 +34,9 @@
 
 ## Excution
 
+- 'N' key   : next image
+- 'P' key   : prev image
+- 'ESC' key : program exit
 - using a image
 - success
 
