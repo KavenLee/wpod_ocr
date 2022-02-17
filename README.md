@@ -77,7 +77,7 @@
     - Detect Number Plate time → Iamge : 100 ~ 180ms ,Video : 200ms
     - OCR Recognition time       →  Image : 50ms , Video : 80 ~ 100 ms
     - Total time → 200~300ms
-- Using GPU on Jetson Tx2 (OS : Linux)
+- Using GPU on Jetson Xavier Nx(OS : Linux)
     - Detect Number Plate time → Image : 3 ~ 400ms
     - OCR Recognition time       → Image : 100~ 200ms
     - Total time → 400~600 ms
